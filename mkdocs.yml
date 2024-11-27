@@ -7,4 +7,6 @@ nav:
       - docker教程: src/Docker_docs/README.md
     - linux相关:
       - screen命令: src/linux相关/screen/README.md
+    - C++:
+      - C++基础 : /src/C++基础/C++基础.md
 
